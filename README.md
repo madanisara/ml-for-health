@@ -1,1 +1,2 @@
-# ml-for-health
+# Artificial Intelligence Lab Project: Machine Learning for Health
+This AI related project is an application to the health field of ML techniques learned during my bachelor studies. Unfortunately, due to privacy concerns as well as the sensitive nature of the data that we've been provided, the code and the report cannot be shared. Indeed, the dataset contains real patient information, which makes both the raw data and the results not publishable. This is the reason why you'll find just the introductory page in the final report file.
